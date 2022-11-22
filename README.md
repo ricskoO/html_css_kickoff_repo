@@ -11,3 +11,7 @@ Downloaded Git Gui, created Bitbucket account
 # To be done
 
 Medium page - esc from Tiranny
+
+#just trying out git
+
+So I am writing some stuffs here
