@@ -6,3 +6,8 @@ tutorial video that helps me setting up the GitHub account: https://www.youtube.
 
 # What I have done so far?
 Downloaded Git Gui, created Bitbucket account
+
+
+# To be done
+
+Medium page - Escape from Tiranny
