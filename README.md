@@ -10,4 +10,4 @@ Downloaded Git Gui, created Bitbucket account
 
 # To be done
 
-Medium page - Escape from Tiranny
+Medium page - esc from Tiranny
